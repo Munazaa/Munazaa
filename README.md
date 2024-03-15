@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Munazza Usmani</h1>
 <h3 align="center">A PhD Student</h3>
 
+- 🔭 I am Pursuing my PhD in **Computer Science & Engineering**  and will graduate in April-2024.
+
+- 🌱 I am really enthusiastic about **learning new technology.**
+
+- 👨‍💻 I enjoy contributing to Research Projects and have contributed to some work including **fusion of Open/Crowdsourced data with Remote Sensing through Machine Learning.**
+
+- 📫 How to reach me **munazzausmani07@gmail.com**
+
+- ✈️ I love **traveling ** too.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munazaa&label=Profile%20views&color=0e75b6&style=flat" alt="munazaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munazaa" alt="munazaa" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/munazzausmani" target="blank"><img src="https://img.shields.io/twitter/follow/munazzausmani?logo=twitter&style=for-the-badge" alt="munazzausmani" /></a> </p>
-
-- 🔭 I am Pursuing **my PhD in Computer Science & Engineering and will graduate in April-2024.**
-
-- 🌱 I am **really enthusiastic about learning new technology.**
-
-- 👨‍💻 I enjoy **contributing to Research Projects and have contributed to some work including fusion of Open/Crowdsourced data with remote sensing through Machine learning.**
-
-- 📫 How to reach me **munazzausmani07@gmail.com**
-
-- ✈️ I love **traveling too.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
