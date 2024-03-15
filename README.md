@@ -7,7 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/munazzausmani" target="blank"><img src="https://img.shields.io/twitter/follow/munazzausmani?logo=twitter&style=for-the-badge" alt="munazzausmani" /></a> </p>
 
+- 🔭 I am Pursuing **my PhD in Computer Science & Engineering and will graduate in April-2024.**
+
+- 🌱 I am **really enthusiastic about learning new technology.**
+
+- 👨‍💻 I enjoy **contributing to Research Projects and have contributed to some work including fusion of Open/Crowdsourced data with remote sensing through Machine learning.**
+
 - 📫 How to reach me **munazzausmani07@gmail.com**
+
+- ✈️ I love **traveling too.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munazaa&show_icons=true&locale=en" alt="munazaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munazaa&" alt="munazaa" /></p>
+
 
