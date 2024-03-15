@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **munazzausmani07@gmail.com**
 
-- ✈️ I love **traveling ** too.
+- ✈️ I love **traveling** too.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munazaa&label=Profile%20views&color=0e75b6&style=flat" alt="munazaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munazaa" alt="munazaa" /></a> </p>
