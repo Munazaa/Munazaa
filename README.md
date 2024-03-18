@@ -40,7 +40,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munazaa&" alt="munazaa" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munazaa&label=Profile%20views&color=0e75b6&style=flat" alt="munazaa" /> </p>
-<p align="left"> <a href="https://twitter.com/munazzausmani" target="blank"><img src="https://img.shields.io/twitter/follow/munazzausmani?logo=twitter&style=for-the-badge" alt="munazzausmani" /></a> </p>
+<p align="left"> <a href="https://twitter.com/munazzausmani" target="blank"><img src="https://img.shields.io/twitter/follow/munazzausmani?logo=twitter&style=for-the-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
