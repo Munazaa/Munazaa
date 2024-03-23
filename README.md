@@ -25,7 +25,11 @@
 <a href="https://files.osmfoundation.org/s/qgHCPFBW8qc4rye">Change Detection Analysis using Remote Sensing and OSM: A Case Study of Beirut</a>
 
 <h3 align="left"> 🏅 Achievements:</h3>
+ 
+
 - 🏆 Top 76 Ranked at AI Powered Flood Mapathon 2024.
+
+- 📝 Best <a href="https://www.researchgate.net/publication/369559101_Geospatial_Technology_for_Flood_Disaster_Mapping_Nigeria-2022_Flood">Paper</a> Award in International Conference on Remote Sensing, GIS & Climate Change 2023.
 
 
 <h3 align="left">Languages and Tools:</h3>
