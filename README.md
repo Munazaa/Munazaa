@@ -27,7 +27,7 @@
 <h3 align="left"> 🏅 Achievements:</h3>
  
 
-- 🏆 Top 76 Ranked at <a href="https://www.researchgate.net/publication/369559101_Geospatial_Technology_for_Flood_Disaster_Mapping_Nigeria-2022_Flood">AI Powered Flood Mapathon 2024</a>.
+- 🏆 Top 76 Ranked at <a href="https://www.grss-ieee.org/community/technical-committees/ai-powered-flood-mapathon/">AI Powered Flood Mapathon 2024</a>.
 
 - &#128220; Best <a href="https://www.researchgate.net/publication/369559101_Geospatial_Technology_for_Flood_Disaster_Mapping_Nigeria-2022_Flood(https://www.grss-ieee.org/community/technical-committees/ai-powered-flood-mapathon/)">Poster</a> Award in International Conference on Remote Sensing, GIS & Climate Change 2023.
 
