@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Munazza Usmani</h1>
-<h3 align="center">A PhD Student</h3>
+<h3 align="center">GeoAI Researcher</h3>
 
-- 🔭 I am Pursuing my PhD in **Computer Science & Engineering**  and will graduate in April-2024.
+- 🔭 A PhD graduate in **Computer Science & Engineering**.
 
 - 🌱 I am really enthusiastic about **learning new technology.**
 
