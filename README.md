@@ -7,7 +7,7 @@
 
 - 👨‍💻 I enjoy contributing to Research Projects and have contributed to some work including **fusion of Open/Crowdsourced data with Remote Sensing through Machine Learning.**
 
-- 📫 How to reach me **munazzausmani07@gmail.com**
+- 📫 How to reach me **munazzausmani07@gmail.com** and **musmani@fbk.eu** 
 
 - ✈️ I love **traveling** too.
 
